@@ -1,5 +1,6 @@
 # gpt-bot
-A Chatbot using langchain built using dummy hardware csv data and [pcandparts](https://pcandparts.com/) website data
+A Chatbot using langchain. <br>
+built using dummy hardware csv data and [pcandparts](https://pcandparts.com/) website data
 # how it works
 Simply put: 
 1.	We have a collection of data vectorized and stored in a vector database.
