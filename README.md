@@ -1,4 +1,6 @@
 # gpt-bot
+A Chatbot using langchain built using dummy hardware csv data and (https://pcandparts.com/) website data
+# how it works
 Simply put: 
 1.	We have a collection of data vectorized and stored in a vector database.
 2.	When a user asks a question, we retrieve the most relevant data from the vector store using similarity search.
