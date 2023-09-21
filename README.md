@@ -1,5 +1,6 @@
 # gpt-bot
-A Chatbot using langchain. <br>
+A Customer support Chatbot built using langchain. <br>
+the bot is able to answer user questions about the company products, make comparison between two products, and provide the end user with the pros and cons of each product. <br>
 built using dummy hardware csv data and [pcandparts](https://pcandparts.com/) website data
 # how it works
 Simply put: 
